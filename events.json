@@ -1,0 +1,1119 @@
+[
+  {
+    "event_id": 209509,
+    "date_start": "2023-03-27T11:15:00",
+    "date_end": "2023-03-27T14:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": {
+      "it": "FONDAMENTI DI COMUNICAZIONI E INTERNET",
+      "en": "FUNDAMENTALS OF INTERNET AND COMMUNICATION NETWORKS"
+    },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "L",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 6938,
+      "acronym_dn": "25.S.3",
+      "classroom_id": -2147483648,
+      "room_dn": "007"
+    }
+  },
+  {
+    "event_id": 260275,
+    "date_start": "2023-03-27T15:15:00",
+    "date_end": "2023-03-27T17:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "FISICA Squadra 1", "en": "PHYSICS Team 1" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "E",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 9782,
+      "acronym_dn": "21.S.3",
+      "classroom_id": -2147483648,
+      "room_dn": "008"
+    }
+  },
+  {
+    "event_id": 220308,
+    "date_start": "2023-03-28T08:15:00",
+    "date_end": "2023-03-28T11:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "ELETTROTECNICA", "en": "BASIC CIRCUIT THEORY" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "L",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 2532,
+      "acronym_dn": "OSVALDO DE DONATO",
+      "classroom_id": -2147483648,
+      "room_dn": "010a"
+    }
+  },
+  {
+    "event_id": 220310,
+    "date_start": "2023-03-28T11:15:00",
+    "date_end": "2023-03-28T13:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "FISICA", "en": "PHYSICS" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "L",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 2532,
+      "acronym_dn": "OSVALDO DE DONATO",
+      "classroom_id": -2147483648,
+      "room_dn": "010a"
+    }
+  },
+  {
+    "event_id": 193868,
+    "date_start": "2023-03-29T10:15:00",
+    "date_end": "2023-03-29T13:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": {
+      "it": "FONDAMENTI DI COMUNICAZIONI E INTERNET",
+      "en": "FUNDAMENTALS OF INTERNET AND COMMUNICATION NETWORKS"
+    },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "E",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 13300,
+      "acronym_dn": "3.1.2",
+      "classroom_id": -2147483648,
+      "room_dn": "019"
+    }
+  },
+  {
+    "event_id": 186553,
+    "date_start": "2023-03-29T15:15:00",
+    "date_end": "2023-03-29T17:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "FISICA", "en": "PHYSICS" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "L",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 559,
+      "acronym_dn": "9.1.2",
+      "classroom_id": -2147483648,
+      "room_dn": "045"
+    }
+  },
+  {
+    "event_id": 189191,
+    "date_start": "2023-03-29T17:15:00",
+    "date_end": "2023-03-29T19:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "FISICA Squadra 1", "en": "PHYSICS Team 1" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "E",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 6485,
+      "acronym_dn": "21.0.3",
+      "classroom_id": -2147483648,
+      "room_dn": "004"
+    }
+  },
+  {
+    "event_id": 209026,
+    "date_start": "2023-03-29T17:15:00",
+    "date_end": "2023-03-29T19:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "FISICA Squadra 2", "en": "PHYSICS Team 2" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "E",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 6939,
+      "acronym_dn": "25.S.2",
+      "classroom_id": -2147483648,
+      "room_dn": "005"
+    }
+  },
+  {
+    "event_id": 198200,
+    "date_start": "2023-03-30T10:15:00",
+    "date_end": "2023-03-30T13:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "ELETTROTECNICA", "en": "BASIC CIRCUIT THEORY" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "L",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 2074,
+      "acronym_dn": "T.2.1",
+      "classroom_id": -2147483648,
+      "room_dn": "006"
+    }
+  },
+  {
+    "event_id": 190058,
+    "date_start": "2023-03-30T15:15:00",
+    "date_end": "2023-03-30T17:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "FISICA Squadra 2", "en": "PHYSICS Team 2" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "E",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 13718,
+      "acronym_dn": "8.1.1",
+      "classroom_id": -2147483648,
+      "room_dn": "013"
+    }
+  },
+  {
+    "event_id": 233977,
+    "date_start": "2023-03-31T08:15:00",
+    "date_end": "2023-03-31T10:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": {
+      "it": "FONDAMENTI DI COMUNICAZIONI E INTERNET",
+      "en": "FUNDAMENTALS OF INTERNET AND COMMUNICATION NETWORKS"
+    },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "L",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 4901,
+      "acronym_dn": "5.03",
+      "classroom_id": -2147483648,
+      "room_dn": "028"
+    }
+  },
+  {
+    "event_id": 198656,
+    "date_start": "2023-03-31T10:15:00",
+    "date_end": "2023-03-31T13:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "FISICA", "en": "PHYSICS" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "L",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 2078,
+      "acronym_dn": "T.2.2",
+      "classroom_id": -2147483648,
+      "room_dn": "026"
+    }
+  },
+  {
+    "event_id": 191053,
+    "date_start": "2023-03-31T14:15:00",
+    "date_end": "2023-03-31T16:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "ELETTROTECNICA", "en": "BASIC CIRCUIT THEORY" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "L",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 7289,
+      "acronym_dn": "2.0.2",
+      "classroom_id": -2147483648,
+      "room_dn": "030"
+    }
+  },
+  {
+    "event_id": 209546,
+    "date_start": "2023-04-03T11:15:00",
+    "date_end": "2023-04-03T14:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": {
+      "it": "FONDAMENTI DI COMUNICAZIONI E INTERNET",
+      "en": "FUNDAMENTALS OF INTERNET AND COMMUNICATION NETWORKS"
+    },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "L",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 6938,
+      "acronym_dn": "25.S.3",
+      "classroom_id": -2147483648,
+      "room_dn": "007"
+    }
+  },
+  {
+    "event_id": 260276,
+    "date_start": "2023-04-03T15:15:00",
+    "date_end": "2023-04-03T17:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "FISICA Squadra 1", "en": "PHYSICS Team 1" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "E",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 9782,
+      "acronym_dn": "21.S.3",
+      "classroom_id": -2147483648,
+      "room_dn": "008"
+    }
+  },
+  {
+    "event_id": 220336,
+    "date_start": "2023-04-04T08:15:00",
+    "date_end": "2023-04-04T11:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "ELETTROTECNICA", "en": "BASIC CIRCUIT THEORY" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "L",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 2532,
+      "acronym_dn": "OSVALDO DE DONATO",
+      "classroom_id": -2147483648,
+      "room_dn": "010a"
+    }
+  },
+  {
+    "event_id": 220338,
+    "date_start": "2023-04-04T11:15:00",
+    "date_end": "2023-04-04T13:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "FISICA", "en": "PHYSICS" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "L",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 2532,
+      "acronym_dn": "OSVALDO DE DONATO",
+      "classroom_id": -2147483648,
+      "room_dn": "010a"
+    }
+  },
+  {
+    "event_id": 193916,
+    "date_start": "2023-04-05T10:15:00",
+    "date_end": "2023-04-05T13:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": {
+      "it": "FONDAMENTI DI COMUNICAZIONI E INTERNET",
+      "en": "FUNDAMENTALS OF INTERNET AND COMMUNICATION NETWORKS"
+    },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "E",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 13300,
+      "acronym_dn": "3.1.2",
+      "classroom_id": -2147483648,
+      "room_dn": "019"
+    }
+  },
+  {
+    "event_id": 186579,
+    "date_start": "2023-04-05T15:15:00",
+    "date_end": "2023-04-05T17:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "FISICA", "en": "PHYSICS" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "L",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 559,
+      "acronym_dn": "9.1.2",
+      "classroom_id": -2147483648,
+      "room_dn": "045"
+    }
+  },
+  {
+    "event_id": 189230,
+    "date_start": "2023-04-05T17:15:00",
+    "date_end": "2023-04-05T19:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "FISICA Squadra 1", "en": "PHYSICS Team 1" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "E",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 6485,
+      "acronym_dn": "21.0.3",
+      "classroom_id": -2147483648,
+      "room_dn": "004"
+    }
+  },
+  {
+    "event_id": 209063,
+    "date_start": "2023-04-05T17:15:00",
+    "date_end": "2023-04-05T19:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "FISICA Squadra 2", "en": "PHYSICS Team 2" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "E",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 6939,
+      "acronym_dn": "25.S.2",
+      "classroom_id": -2147483648,
+      "room_dn": "005"
+    }
+  },
+  {
+    "event_id": 198237,
+    "date_start": "2023-04-06T10:15:00",
+    "date_end": "2023-04-06T13:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "ELETTROTECNICA", "en": "BASIC CIRCUIT THEORY" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "L",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 2074,
+      "acronym_dn": "T.2.1",
+      "classroom_id": -2147483648,
+      "room_dn": "006"
+    }
+  },
+  {
+    "event_id": 190091,
+    "date_start": "2023-04-06T15:15:00",
+    "date_end": "2023-04-06T17:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "FISICA Squadra 2", "en": "PHYSICS Team 2" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "E",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 13718,
+      "acronym_dn": "8.1.1",
+      "classroom_id": -2147483648,
+      "room_dn": "013"
+    }
+  },
+  {
+    "event_id": 193936,
+    "date_start": "2023-04-12T10:15:00",
+    "date_end": "2023-04-12T13:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": {
+      "it": "FONDAMENTI DI COMUNICAZIONI E INTERNET",
+      "en": "FUNDAMENTALS OF INTERNET AND COMMUNICATION NETWORKS"
+    },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "E",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 13300,
+      "acronym_dn": "3.1.2",
+      "classroom_id": -2147483648,
+      "room_dn": "019"
+    }
+  },
+  {
+    "event_id": 186590,
+    "date_start": "2023-04-12T15:15:00",
+    "date_end": "2023-04-12T17:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "FISICA", "en": "PHYSICS" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "L",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 559,
+      "acronym_dn": "9.1.2",
+      "classroom_id": -2147483648,
+      "room_dn": "045"
+    }
+  },
+  {
+    "event_id": 189240,
+    "date_start": "2023-04-12T17:15:00",
+    "date_end": "2023-04-12T19:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "FISICA Squadra 1", "en": "PHYSICS Team 1" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "E",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 6485,
+      "acronym_dn": "21.0.3",
+      "classroom_id": -2147483648,
+      "room_dn": "004"
+    }
+  },
+  {
+    "event_id": 209077,
+    "date_start": "2023-04-12T17:15:00",
+    "date_end": "2023-04-12T19:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "FISICA Squadra 2", "en": "PHYSICS Team 2" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "E",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 6939,
+      "acronym_dn": "25.S.2",
+      "classroom_id": -2147483648,
+      "room_dn": "005"
+    }
+  },
+  {
+    "event_id": 198255,
+    "date_start": "2023-04-13T10:15:00",
+    "date_end": "2023-04-13T13:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "ELETTROTECNICA", "en": "BASIC CIRCUIT THEORY" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "L",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 2074,
+      "acronym_dn": "T.2.1",
+      "classroom_id": -2147483648,
+      "room_dn": "006"
+    }
+  },
+  {
+    "event_id": 190098,
+    "date_start": "2023-04-13T15:15:00",
+    "date_end": "2023-04-13T17:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "FISICA Squadra 2", "en": "PHYSICS Team 2" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "E",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 13718,
+      "acronym_dn": "8.1.1",
+      "classroom_id": -2147483648,
+      "room_dn": "013"
+    }
+  },
+  {
+    "event_id": 286385,
+    "date_start": "2023-04-13T15:15:00",
+    "date_end": "2023-04-13T17:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "FISICA (MODULO 1)", "en": "PHYSICS (PART 1)" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "O",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 559,
+      "acronym_dn": "9.1.2",
+      "classroom_id": -2147483648,
+      "room_dn": "045"
+    }
+  },
+  {
+    "event_id": 234022,
+    "date_start": "2023-04-14T08:15:00",
+    "date_end": "2023-04-14T10:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": {
+      "it": "FONDAMENTI DI COMUNICAZIONI E INTERNET",
+      "en": "FUNDAMENTALS OF INTERNET AND COMMUNICATION NETWORKS"
+    },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "L",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 4901,
+      "acronym_dn": "5.03",
+      "classroom_id": -2147483648,
+      "room_dn": "028"
+    }
+  },
+  {
+    "event_id": 198700,
+    "date_start": "2023-04-14T10:15:00",
+    "date_end": "2023-04-14T13:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "FISICA", "en": "PHYSICS" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "L",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 2078,
+      "acronym_dn": "T.2.2",
+      "classroom_id": -2147483648,
+      "room_dn": "026"
+    }
+  },
+  {
+    "event_id": 191074,
+    "date_start": "2023-04-14T14:15:00",
+    "date_end": "2023-04-14T16:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "ELETTROTECNICA", "en": "BASIC CIRCUIT THEORY" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "L",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 7289,
+      "acronym_dn": "2.0.2",
+      "classroom_id": -2147483648,
+      "room_dn": "030"
+    }
+  },
+  {
+    "event_id": 209597,
+    "date_start": "2023-04-17T11:15:00",
+    "date_end": "2023-04-17T14:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": {
+      "it": "FONDAMENTI DI COMUNICAZIONI E INTERNET",
+      "en": "FUNDAMENTALS OF INTERNET AND COMMUNICATION NETWORKS"
+    },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "L",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 6938,
+      "acronym_dn": "25.S.3",
+      "classroom_id": -2147483648,
+      "room_dn": "007"
+    }
+  },
+  {
+    "event_id": 260277,
+    "date_start": "2023-04-17T15:15:00",
+    "date_end": "2023-04-17T17:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "FISICA Squadra 1", "en": "PHYSICS Team 1" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "E",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 9782,
+      "acronym_dn": "21.S.3",
+      "classroom_id": -2147483648,
+      "room_dn": "008"
+    }
+  },
+  {
+    "event_id": 220378,
+    "date_start": "2023-04-18T08:15:00",
+    "date_end": "2023-04-18T11:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "ELETTROTECNICA", "en": "BASIC CIRCUIT THEORY" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "L",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 2532,
+      "acronym_dn": "OSVALDO DE DONATO",
+      "classroom_id": -2147483648,
+      "room_dn": "010a"
+    }
+  },
+  {
+    "event_id": 220380,
+    "date_start": "2023-04-18T11:15:00",
+    "date_end": "2023-04-18T13:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "FISICA", "en": "PHYSICS" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "L",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 2532,
+      "acronym_dn": "OSVALDO DE DONATO",
+      "classroom_id": -2147483648,
+      "room_dn": "010a"
+    }
+  },
+  {
+    "event_id": 271789,
+    "date_start": "2023-04-19T15:00:00",
+    "date_end": "2023-04-19T18:30:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "FISICA", "en": "PHYSICS" },
+    "event_type": { "typeId": 2, "type_dn": { "it": "Esame", "en": "Exam" } },
+    "calendar": {
+      "calendar_id": 1,
+      "calendar_dn": { "it": "Esami", "en": "Exams" }
+    }
+  },
+  {
+    "event_id": 271842,
+    "date_start": "2023-04-21T12:30:00",
+    "date_end": "2023-04-21T21:30:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": {
+      "it": "FONDAMENTI DI COMUNICAZIONI E INTERNET",
+      "en": "FUNDAMENTALS OF INTERNET AND COMMUNICATION NETWORKS"
+    },
+    "event_type": { "typeId": 2, "type_dn": { "it": "Esame", "en": "Exam" } },
+    "calendar": {
+      "calendar_id": 1,
+      "calendar_dn": { "it": "Esami", "en": "Exams" }
+    }
+  },
+  {
+    "event_id": 194006,
+    "date_start": "2023-04-26T10:15:00",
+    "date_end": "2023-04-26T13:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": {
+      "it": "FONDAMENTI DI COMUNICAZIONI E INTERNET",
+      "en": "FUNDAMENTALS OF INTERNET AND COMMUNICATION NETWORKS"
+    },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "E",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 13300,
+      "acronym_dn": "3.1.2",
+      "classroom_id": -2147483648,
+      "room_dn": "019"
+    }
+  },
+  {
+    "event_id": 186632,
+    "date_start": "2023-04-26T15:15:00",
+    "date_end": "2023-04-26T17:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "FISICA", "en": "PHYSICS" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "L",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 559,
+      "acronym_dn": "9.1.2",
+      "classroom_id": -2147483648,
+      "room_dn": "045"
+    }
+  },
+  {
+    "event_id": 189293,
+    "date_start": "2023-04-26T17:15:00",
+    "date_end": "2023-04-26T19:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "FISICA Squadra 1", "en": "PHYSICS Team 1" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "E",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 6485,
+      "acronym_dn": "21.0.3",
+      "classroom_id": -2147483648,
+      "room_dn": "004"
+    }
+  },
+  {
+    "event_id": 209134,
+    "date_start": "2023-04-26T17:15:00",
+    "date_end": "2023-04-26T19:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "FISICA Squadra 2", "en": "PHYSICS Team 2" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "E",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 6939,
+      "acronym_dn": "25.S.2",
+      "classroom_id": -2147483648,
+      "room_dn": "005"
+    }
+  },
+  {
+    "event_id": 198313,
+    "date_start": "2023-04-27T10:15:00",
+    "date_end": "2023-04-27T13:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "ELETTROTECNICA", "en": "BASIC CIRCUIT THEORY" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "L",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 2074,
+      "acronym_dn": "T.2.1",
+      "classroom_id": -2147483648,
+      "room_dn": "006"
+    }
+  },
+  {
+    "event_id": 190148,
+    "date_start": "2023-04-27T15:15:00",
+    "date_end": "2023-04-27T17:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "FISICA Squadra 2", "en": "PHYSICS Team 2" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "E",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 13718,
+      "acronym_dn": "8.1.1",
+      "classroom_id": -2147483648,
+      "room_dn": "013"
+    }
+  },
+  {
+    "event_id": 234072,
+    "date_start": "2023-04-28T08:15:00",
+    "date_end": "2023-04-28T10:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": {
+      "it": "FONDAMENTI DI COMUNICAZIONI E INTERNET",
+      "en": "FUNDAMENTALS OF INTERNET AND COMMUNICATION NETWORKS"
+    },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "L",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 4901,
+      "acronym_dn": "5.03",
+      "classroom_id": -2147483648,
+      "room_dn": "028"
+    }
+  },
+  {
+    "event_id": 198751,
+    "date_start": "2023-04-28T10:15:00",
+    "date_end": "2023-04-28T13:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "FISICA", "en": "PHYSICS" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "L",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 2078,
+      "acronym_dn": "T.2.2",
+      "classroom_id": -2147483648,
+      "room_dn": "026"
+    }
+  },
+  {
+    "event_id": 191099,
+    "date_start": "2023-04-28T14:15:00",
+    "date_end": "2023-04-28T16:15:00",
+    "show_agenda": true,
+    "matricola": "123456",
+    "title": { "it": "ELETTROTECNICA", "en": "BASIC CIRCUIT THEORY" },
+    "event_type": {
+      "typeId": 1,
+      "type_dn": { "it": "Lezione", "en": "Lecture" }
+    },
+    "event_subtype": "L",
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    },
+    "room": {
+      "room_id": 7289,
+      "acronym_dn": "2.0.2",
+      "classroom_id": -2147483648,
+      "room_dn": "030"
+    }
+  }
+]

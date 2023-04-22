@@ -1,0 +1,50 @@
+[
+  {
+    "event_id": 164984,
+    "deadline_title": {
+      "it": "Scadenza seconda rata 2022/2023",
+      "en": "Second installment expiration date 2022/2023"
+    },
+    "deadline_description": {
+      "it": "Assicurati di effettuare il pagamento entro la scadenza",
+      "en": "Make sure you pay within the deadline"
+    },
+    "academic_year": "2022",
+    "date_start": "2023-05-29T00:00:00",
+    "date_end": "2023-05-29T23:59:59",
+    "event_type": {
+      "typeId": 4,
+      "type_dn": { "it": "Scadenza", "en": "Deadline" }
+    },
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    }
+  },
+  {
+    "event_id": 165191,
+    "deadline_title": {
+      "it": "Fine della presentazione del piano degli studi fuori tempo",
+      "en": "It ends the Out of time presentation of the study plan"
+    },
+    "deadline_description": {
+      "it": "I tempi ufficiali previsti per la compilazione del piano di studi sono terminati.\t",
+      "en": "Official deadlines for completing the study plan are over."
+    },
+    "deadline_txt": {
+      "it": "I tempi ufficiali previsti per la compilazione del piano di studi sono terminati. Il piano generato in questa finestra verrà considerato un'istanza e pertanto sottoposto alla valutazione degli uffici competenti.\t",
+      "en": "Official deadlines for completing the study plan are over. The plan generated in this period will be considered as an application and therefore submitted to the assessment of the appropriate offices."
+    },
+    "academic_year": "2022",
+    "date_start": "2023-05-31T00:00:00",
+    "date_end": "2023-05-31T00:00:00",
+    "event_type": {
+      "typeId": 4,
+      "type_dn": { "it": "Scadenza", "en": "Deadline" }
+    },
+    "calendar": {
+      "calendar_id": 0,
+      "calendar_dn": { "it": "Accademico", "en": "Academic" }
+    }
+  }
+]
