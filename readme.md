@@ -21,6 +21,7 @@
    result:
    ![result](user_template.png)
 ## Agenda endpoint
+ 
     ``` 
     GET https://polimiapp.polimi.it/polimi_app/app/agenda?view=calendar 
     ``` 
