@@ -1,0 +1,6 @@
+{
+  "mean": 28.5,
+  "given_cfu": 28,
+  "planned_cfu": 60,
+  "exam_stats": { "planned": 6, "subscribed": 0, "given": 3 }
+}

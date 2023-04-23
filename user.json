@@ -1,0 +1,16 @@
+{
+  "idPersona": 132472,
+  "codicePersona": "10132472",
+  "cognome": "BRAVO",
+  "nome": "STUDENTE",
+  "matricola": "123456",
+  "classeCarriera": "I",
+  "description": "STUDENTE BRAVO",
+  "initials": "SB",
+  "email": "studente.bravo@mail.polimi.it",
+  "idPersonaImp": null,
+  "codicePersonaImp": null,
+  "cognomeImp": null,
+  "nomeImp": null,
+  "fotoURL": "https://pbs.twimg.com/media/FjU2lkcWYAgNG6d.jpg"
+}
